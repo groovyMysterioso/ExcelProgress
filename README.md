@@ -21,7 +21,7 @@ ProgressBar xlUpdateMeter, "Completed", indexNumber
 Finally destroy the progress bar
 
 ```
-ProgressBar clRemoveMeter
+ProgressBar xlRemoveMeter
 ```
 
 
