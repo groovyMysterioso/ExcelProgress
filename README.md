@@ -2,8 +2,8 @@
 
 A simple progress indicator that works the same way as Access SysCmd.
 
-![Imgur](https://i.imgur.com/D5XMmB2.png)
-![Imgur](https://i.imgur.com/hj5Tsi2.png)
+![Imgur](https://i.imgur.com/sSRbdQb.png)
+![Imgur](https://i.imgur.com/I8wuEgq.png)
 ## Getting Started
 
 Simply import into your Workbook or Personal Workbook in /XLSTART!
