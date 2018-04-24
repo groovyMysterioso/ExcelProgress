@@ -2,7 +2,7 @@
 
 A simple progress indicator that works the same way as Access SysCmd.
 
-!(https://imgur.com/D5XMmB2)
+[Imgur](https://i.imgur.com/D5XMmB2.png)
 ## Getting Started
 
 Simply import into your Workbook or Personal Workbook in /XLSTART!
