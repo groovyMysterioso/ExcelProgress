@@ -26,6 +26,10 @@ Finally destroy the progress bar
 ProgressBar xlRemoveMeter
 ```
 
+Works VERY well with [Reckon](https://github.com/groovyMysterioso/Reckon)
+```
+ProgressBar xUpdateMeter, Reckon(indexNumber,whatever.Count), indexNumber
+```
 
 ## Authors
 
